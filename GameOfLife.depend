@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1325857571 source:/home/aj/myDen/GameOfLife/grid.cpp
+	"grid.h"
+
+1325868976 /home/aj/myDen/GameOfLife/grid.h
+	<iostream>
+
+1325860538 source:/home/aj/myDen/GameOfLife/gameoflife.cpp
+	"grid.h"
+
